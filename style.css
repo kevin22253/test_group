@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#game-container {
+    text-align: center;
+}
+
+#result {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+#options button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 5px;
+}
